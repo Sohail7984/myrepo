@@ -2,7 +2,7 @@ package p001;
 
 import org.junit.Test;
 
-public class TestSample4 {
+public class TestSample5 {
 
 	@Test
 	public void test() {
