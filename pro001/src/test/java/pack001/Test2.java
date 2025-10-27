@@ -3,7 +3,7 @@ package pack001;
 public class Test2 {
 
 	public static void main(String[] args) {
-		System.out.println("testh aieuu;a");
+		System.out.println("Test 002");
 
 	}
 
