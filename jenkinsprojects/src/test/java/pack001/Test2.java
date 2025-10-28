@@ -9,7 +9,7 @@ import org.testng.annotations.Test;
 
 public class Test2 {
   @Test
-  public void test001() throws Exception {
+  public void test2() throws Exception {
 	  ChromeOptions options = new ChromeOptions();
 	  WebDriver driver = new RemoteWebDriver (new URL("http://localhost:4444/wd/hub"),options);
 	  Thread.sleep(2000);
